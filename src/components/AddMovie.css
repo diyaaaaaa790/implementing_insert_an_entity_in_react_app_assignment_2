@@ -1,0 +1,18 @@
+.add-movie-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  form input, form select, form textarea {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 8px;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
